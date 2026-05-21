@@ -1004,10 +1004,10 @@
   resolved "https://registry.yarnpkg.com/@emotion/weak-memoize/-/weak-memoize-0.2.5.tgz#8eed982e2ee6f7f4e44c253e12962980791efd46"
   integrity sha512-6U71C2Wp7r5XtFtQzYrW5iKFT67OixrSxjI4MptCHzdSVlgabczzqLe0ZSgnub/5Kp4hSbpDB1tMytZY9pwxxA==
 
-"@rooks/use-mutation-observer@3.4.2":
-  version "3.4.2"
-  resolved "https://registry.yarnpkg.com/@rooks/use-mutation-observer/-/use-mutation-observer-3.4.2.tgz#1f9525ac694e7a4bd4cb88a3844b7d5c0ce3a248"
-  integrity sha512-f2ju+xRgSWS5yQ76eh5t5CwY4DNLmJueyKpQmZBEKP3o5YxSESKmABC8c7Jds+K2KrQJ+PFClkLMH2U190z60w==
+"@rooks/use-mutation-observer@3.6.0":
+  version "3.6.0"
+  resolved "https://registry.yarnpkg.com/@rooks/use-mutation-observer/-/use-mutation-observer-3.6.0.tgz#75be58bc45778d6040829ae596e203fd820edaff"
+  integrity sha512-psNODH3I4lkX9IFIsP/QlIlCCfnjgbNqQ0hvEhgqnSqyVuZ7lJZ9ffWK4hQG2H6YkHUt2WGFaQtAchyeaChzlg==
 
 "@types/color-name@^1.1.1":
   version "1.1.1"

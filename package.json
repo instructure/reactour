@@ -80,7 +80,7 @@
     "react-dom": "^16.3.0"
   },
   "dependencies": {
-    "@babel/runtime": "^7.8.7",
+    "@babel/runtime": "^7.29.2",
     "@emotion/core": "^10.0.28",
     "@emotion/styled": "^10.0.27",
     "@rooks/use-mutation-observer": "3.4.2",

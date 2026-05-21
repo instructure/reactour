@@ -81,7 +81,7 @@
   },
   "dependencies": {
     "@babel/runtime": "^7.8.7",
-    "@emotion/core": "^10.0.28",
+    "@emotion/core": "^10.3.1",
     "@emotion/styled": "^10.0.27",
     "@rooks/use-mutation-observer": "3.4.2",
     "classnames": "2.2.6",
